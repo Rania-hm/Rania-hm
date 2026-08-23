@@ -1,64 +1,118 @@
-# 👋 Hi, I'm Ania  
-### 🎯 Data Analyst | Python • SQL • Power BI | Data-Driven Decision Making
+# 👋 Hi, I'm Ania
+
+### 🎯 Embedded Systems Engineer | C/C++ • ESP32 • Arduino • STM32 • FreeRTOS
 
 ---
 
 ## 🌍 About Me
-I'm an **Embedded Systems Engineer and Data Analytics Enthusiast** currently transitioning into Data Analytics and Data Science.  
-After gaining strong foundations in **C, Linux, and computer architecture**, I’m now focused on transforming complex data into **actionable business insights**.
 
-- 💼 Completed **2 internships** at **Deloitte** in *Data Analytics* and *Technology Consulting*.  
-- 🔍 Passionate about **data storytelling**, **process automation**, and **AI-powered insights**.  
-- 🧠 Currently strengthening skills in **Python for Data Analysis**, **SQL**, and **Dashboard Building (Power BI & Tableau)**.  
-- 🚀 Goal: Become a data analyst who bridges the gap between technical systems and business strategy.
+I'm an **Embedded Systems Engineer** with a Master's degree in Embedded Systems, passionate about building reliable, efficient, and hardware-oriented software.
 
----
+My background combines **embedded systems, computer architecture, C/C++, microcontrollers, and low-level programming**. I'm currently deepening my practical experience with **ESP32, Arduino, STM32, and FreeRTOS**, focusing on developing projects that connect software with real hardware.
 
-## 🧰 Tech Stack
-  <p align="center" style="font-size:16px;">
-    <i>Technologies I use to analyze, build, and visualize data.</i>
-  </p>
+I enjoy understanding systems from the inside out — from **bits, registers, GPIO and timers to communication protocols, real-time operating systems, and complete embedded applications**.
 
-  <!-- Badge Container -->
-  <p align="center" >
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" title="Python" height="28" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="28" />
-  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" title="Power BI" height="28" />
-  <img src="https://img.shields.io/badge/Tableau-2F4F4F?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" title="Tableau" height="28" />
-  <img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" title="Excel" height="28" />
-  
-  </p>
-  
-  <p align="center" style="font-size:16px;">
-    <i>Other Technologies.</i>
-  </p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" title="Linux" height="28" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="28" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="28" />
-  <img src="https://img.shields.io/badge/Assembly-6E5494?style=for-the-badge&logo=amd&logoColor=white" alt="Assembly (AMD icon)" title="Assembly" height="28" />
-  </p>
+### 🌐 Languages
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-2E7D32?style=for-the-badge&logoColor=white" alt="Arabic Native" height="30" />
+  <img src="https://img.shields.io/badge/French-C1-1565C0?style=for-the-badge&logoColor=white" alt="French C1" height="30" />
+  <img src="https://img.shields.io/badge/English-C1-1565C0?style=for-the-badge&logoColor=white" alt="English C1" height="30" />
+  <img src="https://img.shields.io/badge/Chinese-HSK%201-F9A825?style=for-the-badge&logoColor=white" alt="Chinese HSK 1" height="30" />
+  <img src="https://img.shields.io/badge/Turkish-A2-6A1B9A?style=for-the-badge&logoColor=white" alt="Turkish A2" height="30" />
+</p>
 
-🟢 *View all repositories below or click on pinned ones for details.*
+<p align="center"><b>🇩🇿 Arabic · 🇫🇷 French · 🇬🇧 English · 🇨🇳 Mandarin · 🇹🇷 Turkish</b></p>
 
 ---
 
-## 📈 My Learning Journey
+## 🧰 Embedded Systems Tech Stack
 
-| Focus Area | Current Progress |
-|-------------|------------------|
-| Python for Data Analytics | 🟩🟩🟩🟩⬜ |
-| SQL (Begginner) | 🟩🟩⬜⬜⬜ |
-| Power BI / Tableau | 🟩🟩⬜⬜⬜ |
-| API Integration | 🟩🟩⬜⬜⬜ |
-| Excel | 🟩🟩🟩🟩⬜ |
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="28" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="28" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="28" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="28" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" height="28" />
+  <img src="https://img.shields.io/badge/FreeRTOS-8B0000?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" height="28" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" height="28" />
+</p>
 
+### 💻 Programming & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" height="30" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="30" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="30" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" height="30" />
+  <img src="https://img.shields.io/badge/FreeRTOS-8B0000?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" height="30" />
+</p>
+
+### 🔧 Embedded Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GPIO-Embedded-blue?style=for-the-badge" alt="GPIO" height="28" />
+  <img src="https://img.shields.io/badge/Timers-Embedded-blue?style=for-the-badge" alt="Timers" height="28" />
+  <img src="https://img.shields.io/badge/ADC-Embedded-blue?style=for-the-badge" alt="ADC" height="28" />
+  <img src="https://img.shields.io/badge/Interrupts-Embedded-blue?style=for-the-badge" alt="Interrupts" height="28" />
+  <img src="https://img.shields.io/badge/Bit%20Manipulation-C-blue?style=for-the-badge" alt="Bit Manipulation" height="28" />
+  <img src="https://img.shields.io/badge/State%20Machines-Embedded-blue?style=for-the-badge" alt="State Machines" height="28" />
+</p>
 
 ---
 
+## 📈 Current Learning Journey
 
-## 📫 Connect with Me
+| Focus Area       | Progress  |
+| ---------------- | --------- |
+| C / C++          | 🟩🟩🟩🟩⬜ |
+| ESP32            | 🟩🟩🟩⬜⬜  |
+| Arduino          | 🟩🟩🟩⬜⬜  |
+| STM32            | 🟩🟩⬜⬜⬜   |
+| FreeRTOS         | 🟩⬜⬜⬜⬜    |
+| Embedded Systems | 🟩🟩🟩🟩⬜ |
+| Python           | 🟩🟩🟩⬜⬜  |
+
+---
+
+## 🚀 Current Projects
+
+I'm building a practical embedded-systems portfolio focused on progressively more advanced projects:
+
+* 🔢 **Non-blocking LED Counter** using `millis()`, bit masking and bit shifting
+* 🎛️ **ADC & Potentiometer Control** with ESP32
+* 🔌 **GPIO & Digital I/O Projects**
+* 🧠 **Finite State Machine Applications**
+* 📡 **ESP32 Sensor & IoT Projects**
+* ⚙️ **STM32 Embedded Applications**
+* ⏱️ **Real-Time Applications with FreeRTOS**
+
+Each project is designed to strengthen both **embedded programming fundamentals and practical hardware/software integration**.
+
+---
+
+## 🎓 Background
+
+🎓 **Master's Degree in Embedded Systems**
+
+My academic background includes:
+
+* Computer Architecture
+* Microprocessors & Microcontrollers
+* Assembly Language
+* Digital Electronics
+* FPGA & VHDL
+* Embedded Systems
+* Real-Time Systems
+* C Programming
+
+I also have teaching experience in **Computer Architecture and Assembly Language**, which strengthened my ability to understand and explain systems at a low level.
+
+---
+
+## 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/rania-hamlat-960933219/" target="_blank">
@@ -74,5 +128,4 @@ After gaining strong foundations in **C, Linux, and computer architecture**, I�
 
 ---
 
-⭐ **Fun Fact:** I love blending the logic of engineering with the curiosity of analytics — turning raw data into smart, clear stories.
-
+⭐ **Fun Fact:** I like understanding how software interacts with hardware — from manipulating individual bits to building complete embedded systems.
