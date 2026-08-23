@@ -6,11 +6,15 @@
 
 ## 🌍 About Me
 
-I'm an **Embedded Systems Engineer** with a Master's degree in Embedded Systems, passionate about building reliable, efficient, and hardware-oriented software.
+I'm an **Embedded Systems Engineer** with a Master's degree in Embedded Systems, passionate about **building things, understanding how they work, and turning ideas into working systems**.
 
-My background combines **embedded systems, computer architecture, C/C++, microcontrollers, and low-level programming**. I'm currently deepening my practical experience with **ESP32, Arduino, STM32, and FreeRTOS**, focusing on developing projects that connect software with real hardware.
+My background combines **embedded systems, computer architecture, C/C++, microcontrollers, and low-level programming**. I'm currently developing practical experience with **ESP32, Arduino, STM32, sensors, displays, motors, and FreeRTOS**, with a particular interest in **IoT, industrial automation, and robotics**.
 
-I enjoy understanding systems from the inside out — from **bits, registers, GPIO and timers to communication protocols, real-time operating systems, and complete embedded applications**.
+I learn best by building. When a project gets stuck, I enjoy digging into the problem, understanding what is happening at the hardware/software boundary, and figuring out how to make it work. My goal is to grow into an engineer capable of moving from **low-level embedded code to complete, reliable real-world systems**.
+
+### 👩‍🏫 Teaching & Engineering
+
+I also have teaching experience in **Computer Architecture and 8086/Assembly Language**. Teaching strengthened my ability to reason about systems at a low level and explain complex technical concepts clearly — skills I bring into engineering projects and research.
 
 ### 🌐 Languages
 
@@ -77,6 +81,16 @@ I enjoy understanding systems from the inside out — from **bits, registers, GP
 
 ---
 
+## 🧭 What's Next
+
+I'm progressively expanding from microcontroller fundamentals toward professional embedded development:
+
+`GPIO` → `Timers` → `ADC` → `Interrupts` → `UART` → `SPI` → `I²C` → `CAN` → `RTOS` → `STM32` → `Embedded Systems`
+
+I'm also strengthening **Git, PCB design, Python, and technical problem-solving** alongside my embedded projects.
+
+---
+
 ## 🚀 Current Projects
 
 I'm building a practical embedded-systems portfolio focused on progressively more advanced projects:
@@ -90,6 +104,14 @@ I'm building a practical embedded-systems portfolio focused on progressively mor
 * ⏱️ **Real-Time Applications with FreeRTOS**
 
 Each project is designed to strengthen both **embedded programming fundamentals and practical hardware/software integration**.
+
+### 🏗️ Previous Projects
+
+* 💧 **Smart Irrigation System** — sensor-based agricultural automation project
+* 🏠 **Smart Home System** — embedded monitoring and automation concept
+* 🤖 **Embedded & IoT Experiments** — sensors, displays, motors, GPIO, ADC and control logic
+
+I'm currently rebuilding and documenting the code for selected previous projects while expanding the portfolio with new ESP32 and STM32 implementations.
 
 ---
 
@@ -128,4 +150,18 @@ I also have teaching experience in **Computer Architecture and Assembly Language
 
 ---
 
-⭐ **Fun Fact:** I like understanding how software interacts with hardware — from manipulating individual bits to building complete embedded systems.
+## 🎯 Engineering Mindset
+
+> **Build it. Break it. Understand why. Fix it. Build it better.**
+
+I believe the fastest way to learn embedded systems is to **build real projects, investigate failures, and understand what is happening underneath the abstraction**.
+
+---
+
+## 🎨 Beyond Engineering
+
+When I'm not building embedded systems, I enjoy:
+
+🐎 Horse riding · 🏃 Running · 🏋️ Gym · 📚 Reading · 🌍 Learning languages
+
+⭐ **Fun Fact:** I can spend a surprisingly long time trying to figure out *why* something isn't working — and I genuinely enjoy the moment when the mystery finally makes sense.
